@@ -4,6 +4,7 @@ using System.Runtime.CompilerServices;
 
 namespace Mango.Services.Identity
 {
+    //ghgh
     public static class SD
     {
         public const string Admin = "Admin";
